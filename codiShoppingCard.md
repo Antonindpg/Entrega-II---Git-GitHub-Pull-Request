@@ -1,0 +1,4 @@
+### codiShoppingCard
+Una **PR** o pull request es una sol·licitud formal per integrar canvis d'una branca de codi a una altra branca, generalment la principal, dins d'un repositori.
+- Les seves avantatges són que permet a altres membres de l'equip revisar el codi, discutir els canvis i aprovar o rebutjar la integració abans que es fusionin.
+- Les desavantatges són la manca de context, que fa difícil entendre el canvi sense veure el codi sencer; la revisió de grans quantitats de codi, que pot ser feixuga i provocar pèrdua de concentració; i el bloqueig del procés de desenvolupament si les revisions són lentes o requereixen moltes correccions.
